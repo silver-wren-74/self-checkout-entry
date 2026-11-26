@@ -14,7 +14,7 @@ basket of twelve yoghurts and nothing else.
 ## How it works
 
 `main.py` (standard library only, no network) writes that single line —
-137 characters, one line, deterministic byte-for-byte on every run — to
+134 characters, one line, deterministic byte-for-byte on every run — to
 `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
 
 ## Run it
