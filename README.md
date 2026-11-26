@@ -9,12 +9,12 @@ basket of twelve yoghurts and nothing else.
 
 ## The line
 
-> Beep. Twelve yoghurts, no spoon, no plan. Bag them slowly if you like — I'll still be here tomorrow when you slink back for the spoon.
+> Beep. Twelve yoghurts, no spoon, no plan. Take your time bagging them — I'll still be here tomorrow when you slink back for a spoon.
 
 ## How it works
 
 `main.py` (standard library only, no network) writes that single line —
-134 characters, one line, deterministic byte-for-byte on every run — to
+132 characters, one line, deterministic byte-for-byte on every run — to
 `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `/output`).
 
 ## Run it

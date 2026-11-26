@@ -9,7 +9,9 @@ a single read with the sting last, be petty about the basket AND how
 it is bagged, stay tight, and dodge the worn-out bagging-area gag.
 The revision gives the till its own voice, mocks the slow bagging,
 and holds the payoff — slinking back tomorrow for the spoon — to the
-final words.
+final words. A second pass sharpened it further: "Take your time
+bagging them" is the till's own impatience, and "a spoon" (one single
+spoon, tomorrow, in shame) is pettier than "the spoon".
 Deterministic: the same single line, byte for byte, on every run.
 Standard library only; no network access.
 """
@@ -17,7 +19,7 @@ Standard library only; no network access.
 import os
 import sys
 
-LINE = "Beep. Twelve yoghurts, no spoon, no plan. Bag them slowly if you like — I'll still be here tomorrow when you slink back for the spoon."
+LINE = "Beep. Twelve yoghurts, no spoon, no plan. Take your time bagging them — I'll still be here tomorrow when you slink back for a spoon."
 
 
 def main() -> int:
